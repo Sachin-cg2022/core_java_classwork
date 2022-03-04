@@ -1,0 +1,10 @@
+package com.cg.StringsPraticeQuestions;
+
+public class MaximumOccuring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
